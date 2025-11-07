@@ -171,66 +171,52 @@ h6 {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(kopi/mocha.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   border-radius: 10%;
   margin-right: 50px;
+  overflow: hidden;
 }
 .kedua {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(kopi/machiato.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   border-radius: 10%;
+  overflow: hidden;
 }
 .ketiga {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(kopi/affogato.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   border-radius: 10%;
   margin-left: 50px;
+  overflow: hidden;
 }
 .keempat {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(kopi/coldbrew.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   border-radius: 10%;
   margin-right: 50px;
+  overflow: hidden;
 }
 .kelima {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(kopi/flatwhite.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   border-radius: 10%;
+  overflow: hidden;
 }
 .keenam {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(kopi/redeye.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   border-radius: 10%;
   margin-left: 50px;
+  overflow: hidden;
 }
 .tulisan h6 {
   color: #ba441b;
-  text-decoration: undrline;
   max-width: 1250px;
   margin: 100px 50px 50px 50px;
   font-size: 60px;
   text-align: center;
 }
-
