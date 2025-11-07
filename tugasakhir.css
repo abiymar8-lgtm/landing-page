@@ -171,7 +171,7 @@ h6 {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(../kopi/mocha.jpg);
+  background-image: url(kopi/mocha.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10%;
@@ -181,7 +181,7 @@ h6 {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(../kopi/machiato.jpg);
+  background-image: url(kopi/machiato.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10%;
@@ -190,7 +190,7 @@ h6 {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(../kopi/affogato.jpg);
+  background-image: url(kopi/affogato.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10%;
@@ -200,7 +200,7 @@ h6 {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(../kopi/coldbrew.jpg);
+  background-image: url(kopi/coldbrew.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10%;
@@ -210,7 +210,7 @@ h6 {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(../kopi/flatwhite.jpg);
+  background-image: url(kopi/flatwhite.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10%;
@@ -219,7 +219,7 @@ h6 {
   background-color: red;
   width: 300px;
   height: 200px;
-  background-image: url(../kopi/redeye.jpg);
+  background-image: url(kopi/redeye.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10%;
@@ -233,3 +233,4 @@ h6 {
   font-size: 60px;
   text-align: center;
 }
+
