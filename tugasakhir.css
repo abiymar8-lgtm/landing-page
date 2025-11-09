@@ -163,60 +163,127 @@ h6 {
   margin-right: 8px;
 }
 .foto {
-  max-width: 1250px;
-  margin: 50px 250px 20px 250px;
+  background-color: #ba441b;
+  width: 1150px;
+  height: 800px;
+  padding-top: 10px;
+  border-radius: 10%;
+  border: 2px solid #000000a7;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px 2px black;
+}
+.foto:hover {
+  box-shadow: 0px 0px 5px 2px black;
+}
+.ngawur {
   display: flex;
-}
-.pertama {
-  background-color: red;
-  width: 300px;
-  height: 200px;
-  border-radius: 10%;
-  margin-right: 50px;
-  overflow: hidden;
-}
-.kedua {
-  background-color: red;
-  width: 300px;
-  height: 200px;
-  border-radius: 10%;
-  overflow: hidden;
-}
-.ketiga {
-  background-color: red;
-  width: 300px;
-  height: 200px;
-  border-radius: 10%;
-  margin-left: 50px;
-  overflow: hidden;
-}
-.keempat {
-  background-color: red;
-  width: 300px;
-  height: 200px;
-  border-radius: 10%;
-  margin-right: 50px;
-  overflow: hidden;
-}
-.kelima {
-  background-color: red;
-  width: 300px;
-  height: 200px;
-  border-radius: 10%;
-  overflow: hidden;
-}
-.keenam {
-  background-color: red;
-  width: 300px;
-  height: 200px;
-  border-radius: 10%;
-  margin-left: 50px;
-  overflow: hidden;
+  max-width: 1250px;
+  justify-content: space-between;
+  margin: 0 80px;
 }
 .tulisan h6 {
-  color: #ba441b;
-  max-width: 1250px;
-  margin: 100px 50px 50px 50px;
+  margin-bottom: 0px;
+  color: #ffffffff;
   font-size: 60px;
+  text-align: center;
+  text-shadow: 5px 5px 10px black;
+}
+.kopi {
+  width: 300px;
+  height: 200px;
+  background-color: #000000ff;
+  border-radius: 10%;
+  border: 2px solid #000000a7;
+  color: white;
+  margin: 20px 0;
+  overflow: hidden;
+  transition: transform 0.5s ease;
+}
+.kopi:hover {
+  box-shadow: 0px 0px 5px 2px black;
+  transform: scale(1.1);
+}
+
+.kontak {
+  margin-top: 50px;
+  background-color: #c94d24ff;
+  width: 100%;
+  height: 400px;
+  text-align: center;
+}
+.kontak h6 {
+  padding-top: 50px;
+  color: #fff;
+  text-align: center;
+}
+.kontak p {
+  color: #fff;
+  text-align: center;
+}
+.button5 {
+  text-decoration: none;
+  background-color: #fff;
+  color: #ba441b;
+  border: 2px solid #872302ff;
+  border-radius: 8px;
+  padding: 10px 24px;
+}
+.kelas {
+}
+.button6 {
+  text-decoration: none;
+  background-color: #ba441b;
+  color: #fff;
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+  padding: 10px 24px;
+}
+.button5:hover {
+  background-color: #ba441b;
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px 24px;
+}
+.button6:hover {
+  background-color: #fff;
+  color: #ba441b;
+  border-radius: 8px;
+  padding: 10px 24px;
+}
+.hubungi {
+  font-size: 20px;
+  margin-top: 30px;
+  color: #fff;
+}
+footer {
+  background-color: #111827;
+  width: 100%;
+  height: 250px;
+  color: #ffffffff;
+}
+.akhir {
+  display: flex;
+}
+.footer1 {
+  display: flex;
+}
+.footer1 img {
+  margin-top: 10px;
+}
+.footer2 h6 {
+  margin-left: 100px;
+  margin-top: 30px;
+  font-size: 25px;
+}
+.footer2 a {
+  color: #74879d;
+  display: block;
+  margin-left: 100px;
+  margin-bottom: -50px;
+  text-decoration: none;
+}
+footer h6 {
+  margin-top: 120px;
+  font-size: 20px;
   text-align: center;
 }
